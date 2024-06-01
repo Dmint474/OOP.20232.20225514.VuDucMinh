@@ -1,2 +1,3 @@
-# OOP.20232.20225514.VuDucMinh
-My object-oriented programming Lab weekly exercises
+# OOP Lab Exercises 
+Student name: Vu Duc Minh
+Student ID: 20225514
